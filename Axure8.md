@@ -2,6 +2,9 @@
 
 还有 **Mockplus  墨刀 Demoo**
 
+### 功能梳理工具：Xmind  MindManager
+### 流程进行整理工具：visio  axure里面的flow功能
+
 - Axure8.1.0.3372 注册码
 
 Koshy
