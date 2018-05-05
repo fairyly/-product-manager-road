@@ -83,3 +83,8 @@ PRD没有标准，所以什么样的PRD是一份好的PRD，这实际上是一�
 
 ### 参考资料
 * 如何让开发、测试一致称赞你的PRD？：http://www.woshipm.com/pmd/999846.html
+
+
+### 示例
+* 一款婚庆App的PRD文档：http://www.woshipm.com/rp/853708.html
+* 一款问答APP的产品需求文档（PRD）：ttp://www.woshipm.com/pmd/900467.html
